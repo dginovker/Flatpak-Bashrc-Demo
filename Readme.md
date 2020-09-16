@@ -7,8 +7,8 @@
 #### Step 1:
 - Get flatpak-builder from your system's repo
 
-#### Step 2:
-- flatpak install flathub org.freedesktop.Platform//18.08 org.freedesktop.Sdk//18.08
+#### Step 2: Get some flatpak dependencies
+- `flatpak install flathub org.freedesktop.Platform//18.08 org.freedesktop.Sdk//18.08`
 
 ### Step 3: Create a local repo
 - `flatpak --user remote-add --no-gpg-verify tutorial-repo repo`
