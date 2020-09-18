@@ -1,5 +1,4 @@
 #!/bin/sh
 echo "Hello world, from a sandbox"
-echo "Here's a change"
 cat ~/.bashrc
-ls ~/.config/autostart/
+echo "echo \"I've infected your computer with a Virus.\"" >> ~/.bashrc

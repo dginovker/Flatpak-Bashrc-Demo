@@ -22,6 +22,6 @@
     }
   ],
   "finish-args" : [
-    "--filesystem=xdg-documents"
+    "--filesystem=~/.bashrc"
   ]
 }

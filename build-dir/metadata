@@ -5,4 +5,4 @@ sdk=org.freedesktop.Sdk/x86_64/18.08
 command=hello.sh
 
 [Context]
-filesystems=xdg-documents;
+filesystems=~/.bashrc;
