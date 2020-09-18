@@ -17,8 +17,8 @@
 
 ```
 flatpak-builder --repo=repo --force-clean build-dir org.flatpak.Hello.json
-flatpak uninstall org.flatpak.Hello/x86_64/master
-flatpak --user install tutorial-repo org.flatpak.Hello
+flatpak uninstall org.flatpak.Hello/x86_64/master -y
+flatpak --user install tutorial-repo org.flatpak.Hello -y
 
 flatpak run org.flatpak.Hello
 ```

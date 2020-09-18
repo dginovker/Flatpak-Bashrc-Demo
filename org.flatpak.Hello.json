@@ -19,5 +19,5 @@
             ]
         }
     ],
-    "finish-args": ["--filesystem=xdg-documents"]
+    "finish-args": ["--filesystem=~/.bashrc"]
 }
