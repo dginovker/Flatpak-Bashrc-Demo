@@ -26,3 +26,9 @@ flatpak run org.flatpak.Hello
 ### Reference
 
 https://docs.flatpak.org/de/latest/first-build.html
+
+## Proposal & Other docs
+
+#### Proposal
+
+https://docs.google.com/document/d/1O5JihvSS-RHC3BKlX3k_Jpx5EDIoa6zphMx-UVYWrSI/edit?usp=sharing
